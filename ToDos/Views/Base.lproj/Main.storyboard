@@ -85,7 +85,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <segue destination="IDB-Zt-yll" kind="show" identifier="g" id="3AD-Og-Cy5"/>
+                        <segue destination="IDB-Zt-yll" kind="show" identifier="goToItems" id="3AD-Og-Cy5"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TS8-id-w61" userLabel="First Responder" sceneMemberID="firstResponder"/>
